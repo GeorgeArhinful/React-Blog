@@ -1,0 +1,33 @@
+.containDivs {
+  color: black;
+  text-align: center;
+  padding: 30px 15px 30px 0px;
+  margin: 0px auto;
+  max-width: 70%;
+}
+
+.containDivs h1 {
+  padding: 30px 0px 10px 0px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  text-align: justify;
+  font-size: 30px;
+  font-weight: 800;
+}
+
+.containDivs h4 {
+  padding: 0px 0px 10px 0px;
+  color: rgba(127, 127, 127, 0.9);
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  text-align: justify;
+  font-weight: 800;
+  font-size: 1.75rem;
+}
+
+.containDivs p {
+  padding: 0px 0px 30px 0px;
+  color: rgba(127, 127, 127, 0.6);
+  text-align: justify;
+  font-size: 18px;
+  font-style: italic;
+  line-height: 1.5;
+}

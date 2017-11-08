@@ -1,0 +1,9 @@
+.btns{
+  text-align: right;
+  padding-right: 30px;
+
+}
+.btns-b{
+  background-color: rgb(6,101,122);
+  color: white;  
+}
